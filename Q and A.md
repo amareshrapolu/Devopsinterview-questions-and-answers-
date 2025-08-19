@@ -9,9 +9,11 @@ Perfect 👍 Got it — you want each answer **4–5 lines long**, professional 
 ## 🔹 **Linux**
 
 **11. What is the difference between a hard link & a soft link?**
+
 👉 A hard link is like another name for the same file and points directly to the data on disk. If you delete the original file, the hard link still works. A soft link (symlink) is like a shortcut and points to the file path, not the actual data. If the original file is deleted, the soft link becomes broken.
 
 **12. How would you check the available disk space and usage?**
+
 👉 In Linux, I use `df -h` to check overall disk space in a human-readable format. If I need to check which folder is consuming more space, I use `du -sh <directory>`. Sometimes I also combine `find` with `du` to locate large files. This helps in troubleshooting disk issues effectively.
 
 ---
