@@ -142,7 +142,9 @@ This uses an OpenJDK base image, copies the JAR file, and runs it with `java -ja
 
 **1. Tell me about yourself.**
 
-👉 I am a DevOps Engineer with experience in CI/CD, AWS cloud, Docker, Jenkins, and automation tools like Ansible. I have worked on building pipelines, managing deployments, and infrastructure automation. My strength is problem-solving and ensuring smooth delivery. I enjoy learning new technologies and applying them in real projects.
+👉 “Good morning, and thank you for giving me this opportunity. My name is Amaresh Rapolu, and for the past three and a half years, I’ve been working as a DevOps Engineer.
+I have hands-on experience with CI/CD, AWS, Docker, Jenkins, GitHub, and automation tools like Ansible. In my projects, I’ve built pipelines, managed deployments, monitored systems, and automated infrastructure to improve efficiency.
+I enjoy collaborating with both development and operations teams to streamline workflows and ensure smooth deployments. My key strength is problem-solving — I enjoy analyzing issues, finding root causes, and implementing effective solutions. I’m also passionate about learning new technologies and applying them in real-world projects.”
 
 **2. What are your daily responsibilities?**
 
